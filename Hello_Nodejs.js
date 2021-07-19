@@ -1,4 +1,3 @@
-
 async function hello(){
     let promise = new Promise(function(resolve,reject){
    setTimeout(() => {resolve("Hello GitHub... I am Nandini 💜 ");},2000); 
